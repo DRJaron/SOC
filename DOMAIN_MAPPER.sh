@@ -1,10 +1,5 @@
 #!/bin/bash
 
-#STUDANT NAME: SHAGALOV YARON 
-#CODE:S12
-#CLASS CODE: 7736/20
-#LECTURER: SEGEV EREL
-
 
 figlet "DOMAIN_MAPPER"
 echo "by yaron shagalov"
